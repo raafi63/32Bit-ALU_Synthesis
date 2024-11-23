@@ -81,7 +81,7 @@ gui_show
 ~~~
 ### Synthesis RTL Schematic :
 
-![image](https://github.com/user-attachments/assets/719a4bc7-1844-4d38-98e6-86757cd7bb52)
+![Screenshot 2024-11-22 232221](https://github.com/user-attachments/assets/fdba1a4b-6650-4960-80a7-f9c4f0031fda)
 
 ### Area report:
 
@@ -89,7 +89,7 @@ gui_show
 
 ### Power Report:
 
-![image](https://github.com/user-attachments/assets/a446f225-aacf-4a3c-95c4-07e03cca0352)
+![Screenshot 2024-11-22 232344](https://github.com/user-attachments/assets/725d8180-d51f-4676-b30d-385b38984108)
 
 ## Result: 
 
